@@ -1,0 +1,21 @@
+{
+  "name": "trip-coin",
+  "version": "1.0.0",
+  "description": "ERC-20 Token for TRIP Coin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js --network <network>"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.0",
+    "hardhat": "^2.8.3",
+    "hardhat-waffle": "^2.0.0",
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
