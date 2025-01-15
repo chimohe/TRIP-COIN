@@ -19,6 +19,19 @@ $TRIP Coin is an ERC-20 token designed for decentralized travel-related transact
 - **npm** (Node package manager)
 - **Hardhat**: A development environment to compile, deploy, test, and debug Ethereum software.
 
+trip-coin/
+├── contracts/
+│   └── TRIPCoin.sol                # Solidity contract for the $TRIP Coin ERC-20 token
+├── migrations/
+│   └── 1_deploy_contracts.js       # Deployment script for the contract
+├── test/
+│   └── TRIPCoin.test.js            # Test file to validate token functions (minting, burning, etc.)
+├── .gitignore                      # Git ignore file to exclude node_modules and other temporary files
+├── README.md                       # Project overview, installation, and usage instructions
+├── hardhat.config.js               # Hardhat configuration for compiling and deploying contracts
+├── package.json                    # Project metadata and dependencies
+└── .env                            # Environment variables (e.g., private keys for deployment)
+
 ### Steps
 
 1. **Clone the repository:**
