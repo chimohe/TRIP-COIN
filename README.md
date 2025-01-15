@@ -102,6 +102,6 @@ Contributing
 
 Feel free to fork the project and submit pull requests. Issues, bug reports, and feature suggestions are welcome.
 
-For more information or questions, contact us at [your-email@example.com].
+For more information or questions, contact us at chimohe@gmail.com
 
 This `README.md` provides an overview of the `$TRIP Coin` project, its setup, deployment instructions, and testing procedures. Adjust the contact details and any specific configuration based on your setup.
