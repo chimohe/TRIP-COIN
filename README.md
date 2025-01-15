@@ -84,7 +84,7 @@ Contract Details
 	•	Token Name: TRIP Coin
 	•	Token Symbol: $TRIP
 	•	Decimals: 18
-	•	Initial Supply: 1,000,000 $TRIP (1 million tokens)
+	•	Initial Supply: 32,000 $TRIP (32 Thousand tokens)
 
 Networks
 
