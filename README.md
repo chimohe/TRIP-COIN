@@ -46,7 +46,7 @@ trip-coin/
 1. **Clone the repository:**
 
     bash
-    git clone https://github.com/chimohe/TRIP-COIN
+    git clone https://github.com/chimohe/TRIP-COIN.git
 
 
 2. **Install dependencies:**
